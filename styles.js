@@ -48,7 +48,7 @@ module.exports = "/*!\n * Bootstrap v3.3.7 (http://getbootstrap.com)\n * Copyrig
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\r\n\r\n@import url('https://fonts.googleapis.com/css?family=Gaegu|Raleway');\n/* You can add global styles to this file, and also import other style files */\n/* font-family: 'Gaegu', cursive;  */\n/*\r\nbody {\r\n  \r\n  font-family: 'Raleway', sans-serif;\r\n}\r\n\r\n.highlight {\r\n  font-family: 'Gaegu', cursive;\r\n  font-size: 36;\r\n  color: #df6600;\r\n}\r\n\r\n*/"
+module.exports = "\r\n\r\n@import url('https://fonts.googleapis.com/css?family=Gaegu|Raleway');\n/* You can add global styles to this file, and also import other style files */\n/* font-family: 'Gaegu', cursive;  */\nbody {\r\n  \r\n  font-family: 'Gaegu', cursive;\r\n}\n.highlight {\r\n  font-family: 'Gaegu', cursive;\r\n  font-size: 36;\r\n  color: #df6600;\r\n}\r\n\r\n"
 
 /***/ }),
 

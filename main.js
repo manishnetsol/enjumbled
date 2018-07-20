@@ -672,7 +672,7 @@ var HighlightDirective = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\r\n.highlight {\r\n  font-family: Gaegu,cursive;\r\n  font-size: 36;\r\n  color: #df6600;\r\n}\r\n\r\n.centered {\r\n  margin-top: 20%;\r\n\r\n}\r\n\r\n@-webkit-keyframes MyAnimation {\r\n  0% {\r\n    padding-left: 100px;\r\n  }\r\n  100% {\r\n    padding-left: 0px;\r\n  } \r\n}\r\n\r\n@keyframes MyAnimation {\r\n  0% {\r\n    padding-left: 100px;\r\n  }\r\n  100% {\r\n    padding-left: 0px;\r\n  } \r\n}\r\n\r\n.my-animation {\r\n  -webkit-animation: MyAnimation 1s;\r\n          animation: MyAnimation 1s;\r\n}\r\n"
+module.exports = ".centered {\r\n  margin-top: 20%;\r\n\r\n}\r\n\r\n@-webkit-keyframes MyAnimation {\r\n  0% {\r\n    padding-left: 100px;\r\n  }\r\n  100% {\r\n    padding-left: 0px;\r\n  } \r\n}\r\n\r\n@keyframes MyAnimation {\r\n  0% {\r\n    padding-left: 100px;\r\n  }\r\n  100% {\r\n    padding-left: 0px;\r\n  } \r\n}\r\n\r\n.my-animation {\r\n  -webkit-animation: MyAnimation 1s;\r\n          animation: MyAnimation 1s;\r\n}\r\n"
 
 /***/ }),
 
